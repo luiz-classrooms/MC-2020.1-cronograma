@@ -1,3 +1,6 @@
+* Lives de tira-dúvida
+  Toda quinta-feira, às 15:00, teremos uma live de tira-dúvidas, pelo
+  Google Meet.
 * Cronograma de aulas assíncronas
   | Data             | Tópico | Conteúdo                                                       |
   |------------------+--------+----------------------------------------------------------------|
