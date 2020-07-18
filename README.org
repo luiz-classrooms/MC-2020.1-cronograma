@@ -3,7 +3,8 @@
   Google Meet.
 * Cronograma de aulas assíncronas
   Essas são as datas em que os vídeos das aulas devem estar
-  disponíveis, pelo Google Drive.
+  disponíveis, pelo Google Drive. O Tópico 0 representa as atividades
+  que foram realizadas antes da interrupção de atividades.
 
   | Data             | Tópico | Conteúdo                                                       |
   |------------------+--------+----------------------------------------------------------------|
