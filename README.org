@@ -2,6 +2,9 @@
   Toda quinta-feira, às 15:00, teremos uma live de tira-dúvidas, pelo
   Google Meet.
 * Cronograma de aulas assíncronas
+  Essas são as datas em que os vídeos das aulas devem estar
+  disponíveis, pelo Google Drive.
+
   | Data             | Tópico | Conteúdo                                                       |
   |------------------+--------+----------------------------------------------------------------|
   | [2020-02-27 Thu] |      0 | Interpolações polinomiais: Lagrange                            |
@@ -39,6 +42,10 @@
   | [2020-10-08 Thu] |     20 | Uso de pacotes de otimização                                   |
   | [2020-10-13 Tue] |     21 | Uso de pacotes de otimização                                   |
 * Cronograma de Entregas
+  Essas são as datas-limite de cada entrega. As entregas devem ser
+  feitas pelo Github Classroom, e qualquer commit fora do prazo não
+  será considerado.
+
   | Data             | Entrega             | Caráter     |
   |------------------+---------------------+-------------|
   | [2020-08-04 Tue] | tópico 0            | obrigatório |
