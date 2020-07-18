@@ -1,0 +1,50 @@
+* Cronograma de aulas assíncronas
+  | Data             | Tópico | Conteúdo                                                       |
+  |------------------+--------+----------------------------------------------------------------|
+  | [2020-02-27 Thu] |      0 | Interpolações polinomiais: Lagrange                            |
+  | [2020-03-03 Tue] |      0 | Interpolações polinomiais: Taylor                              |
+  | [2020-03-05 Thu] |      0 | Zeros de funções via Lagrange: Posição Falsa                   |
+  | [2020-03-07 Sat] |      0 | Zeros de funções via Taylor: Método de Newton                  |
+  | [2020-03-10 Tue] |      0 | Integração Numérica via Lagrange: Regra do Trapézio            |
+  | [2020-03-12 Thu] |      0 | Integração Numérica via Lagrange: Regra de Simpson             |
+  | [2020-03-17 Tue] |      0 | Integração Numérica: quadraturas de Gauss-Legendre             |
+  | [2020-03-19 Thu] |      0 | Feriado                                                        |
+  | [2020-03-24 Tue] |      0 | Integração Numérica: integrais múltiplas                       |
+  |------------------+--------+----------------------------------------------------------------|
+  | [2020-08-04 Tue] |      1 | Derivação Numérica via Taylor: desenvolvimento de diferenciais |
+  | [2020-08-06 Thu] |      2 | Álgebra Linear Computacional: Eliminação Gaussiana             |
+  | [2020-08-11 Tue] |      3 | Álgebra Linear Computacional: Pivoteamento Parcial e Total     |
+  | [2020-08-13 Thu] |      4 | Álgebra Linear Computacional: Decomposição LU                  |
+  | [2020-08-18 Tue] |      5 | Álgebra Linear Computacional: determinantes via LU             |
+  |------------------+--------+----------------------------------------------------------------|
+  | [2020-08-20 Thu] |      6 | Programação Linear: modelos matemáticos                        |
+  | [2020-08-25 Tue] |      7 | Programação Linear: modelos matemáticos                        |
+  | [2020-08-27 Thu] |      8 | Programação Linear: modelos matemáticos                        |
+  | [2020-09-01 Tue] |      9 | Programação Linear: Método Simplex                             |
+  | [2020-09-03 Thu] |     10 | Programação Linear: Método Simplex                             |
+  | [2020-09-08 Tue] |     11 | Programação Linear: Método Simplex                             |
+  |------------------+--------+----------------------------------------------------------------|
+  | [2020-09-10 Thu] |     12 | Programação Inteira: modelos matemáticos                       |
+  | [2020-09-15 Tue] |     13 | Programação Inteira: Cortes de Gomory-Chvátal                  |
+  | [2020-09-17 Thu] |     14 | Programação Inteira: Branch and Bound                          |
+  |------------------+--------+----------------------------------------------------------------|
+  | [2020-09-22 Tue] |     15 | Fluxo em Redes: modelos matemáticos e combinatórios            |
+  | [2020-09-24 Thu] |     16 | Fluxo em Redes: variações e aplicações                         |
+  | [2020-09-29 Tue] |     17 | Fluxo em Redes: Ford-Fulkerson e Edmonds-Karp                  |
+  | [2020-10-01 Thu] |     18 | Uso de pacotes de otimização                                   |
+  | [2020-10-06 Tue] |     19 | Uso de pacotes de otimização                                   |
+  | [2020-10-08 Thu] |     20 | Uso de pacotes de otimização                                   |
+  | [2020-10-13 Tue] |     21 | Uso de pacotes de otimização                                   |
+* Cronograma de Entregas
+  | Data             | Entrega             | Caráter     |
+  |------------------+---------------------+-------------|
+  | [2020-08-04 Tue] | tópico 0            | obrigatório |
+  | [2020-08-11 Tue] | tópico 1 e questões | obrigatório |
+  | [2020-08-25 Tue] | tópicos 2 a 5       | obrigatório |
+  | [2020-09-08 Tue] | tópicos 6 a 8       | obrigatório |
+  | [2020-09-22 Tue] | tópicos 9 a 11      | obrigatório |
+  | [2020-09-17 Thu] | tópico 12           | opcional    |
+  | [2020-09-22 Tue] | tópico 13           | opcional    |
+  | [2020-09-24 Thu] | tópico 14           | opcional    |
+  | [2020-10-06 Tue] | tópicos 15 a 17     | obrigatório |
+  | [2020-10-20 Tue] | tópicos 18 a 21     | obrigatório |
